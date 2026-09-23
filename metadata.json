@@ -1,0 +1,10 @@
+{
+  "name": "Underground Mine Rover-Drone Rescue Simulator",
+<<<<<<< HEAD
+  "description": "Real-time 3D simulation and autonomous multi-agent reconnaissance system for rover and scout drone subterranean mine mapping, environmental surveying, and human rescue corridor verification.",
+=======
+  "description": "Real-time 3D simulation and ROS 2 Jazzy / Gazebo Harmonic digital twin for an autonomous rover and scout drone collaborative underground mine rescue mission.",
+>>>>>>> 9a731b2164be119fc109637d2b6e9db0937da403
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
